@@ -1,0 +1,15 @@
+Subjective evaluation of the eigenvectors extracted via closed form factorization. Could be useful in making "controlled" versions of the generator.
+0+ blur
+1- trees? 1+ waves
+2- green field 2+ snowy tree?
+3+ sunset?
+4- sunset tree
+5- sunset 5+ rocky waves
+6- denser paint texture 6+ sky/clouds?
+7- hill trees 7+ sunset pines
+8-/+ water left/right
+9- center mountain 9+ bottom left rocks
+10 unclear
+11 unclear
+12 unclear
+maybe 0-9 are most important
